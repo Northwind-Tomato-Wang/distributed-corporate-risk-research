@@ -1,0 +1,7 @@
+public_file,original_relative_path,original_sha256,change
+research_snapshots/film.py,实验与代码/控制消息架构/20261018-v1/ablation_lib.py,6d7be1b0a38b349762d7aa8c922b0398df792bd799f885b84785ef2a0c3be530,archive header; local project path redacted
+research_snapshots/privacy.py,实验与代码/FiLM-L隐私防护/20261021-v2/shared_privacy_experiment.py,10006df8c19ee4013d711b52600c84c56c5222cef3cc24eb57d2423be8fa88be,archive header; local project path redacted
+research_snapshots/quantization.py,实验与代码/FiLM-L通信优化/20261020-v1/protocol.py,07cd0108615fe8d162bffcda1fbcf295cc113d5ad33060fed74fc84b864782dd,archive header; local project path redacted
+research_snapshots/maintenance.py,实验与代码/年度更新机制收束/20261023-v1/mechanism.py,c75f1875a4a494a078ec23acd467699b266c977291efc479f5ad7ff463bf3567,archive header; local project path redacted
+research_snapshots/rolling.py,实验与代码/年度更新机制收束/20261023-v1/rolling.py,97e7029a5a40ff4e9b0794e51e26335002f999c4c43f7b0d1dc161eba4658547,archive header; local project path redacted
+research_snapshots/incremental.py,实验与代码/延迟标签增量更新/20261023-v1/run_pilot.py,786f28f59821178ebf54102287f5b92106db8998860550c2a7b9596bf95a3646,archive header; local project path redacted
